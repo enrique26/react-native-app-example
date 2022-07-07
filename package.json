@@ -11,7 +11,7 @@
     "@react-native-community/async-storage": "1.5.0",
     "@react-native-community/geolocation": "1.4.2",
     "lodash": "4.17.11",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "moment-business": "3.0.1",
     "native-base": "2.12.1",
     "prop-types": "15.7.2",
